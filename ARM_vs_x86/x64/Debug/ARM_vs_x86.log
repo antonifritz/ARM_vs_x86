@@ -1,0 +1,24 @@
+﻿  ARM_vs_x86.cpp
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(35,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(46,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(62,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(206,18): error C2131: wyrażenie nie zostało obliczone do stałej
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(206,18): message : przyczyną niepowodzenia był odczyt zmiennej poza jej okresem istnienia
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(206,18): message : zobacz użycie elementu „num_of_passes”
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(216,20): error C3863: nie można przydzielać typu tablicy „long [num_of_passes]”
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(225,42): warning C4477: „snprintf”: ciąg formatu „%ld” wymaga argumentu typu „long”, ale argument 1 ze zmienną liczbą argumentów ma typ „time_t”
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(225,42): message : rozważ użycie elementu „%lld” w ciągu formatu
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(225,42): message : rozważ użycie elementu „%Id” w ciągu formatu
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(225,42): message : rozważ użycie elementu „%I64d” w ciągu formatu
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(233,16): warning C4477: „printf”: ciąg formatu „%ld” wymaga argumentu typu „long”, ale argument 2 ze zmienną liczbą argumentów ma typ „long [num_of_passes]”
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(233,16): warning C4313: „printf”: „%d” w ciągu formatu powoduje konflikt z argumentem 2 typu „long [num_of_passes]”
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(234,23): warning C4477: „fprintf”: ciąg formatu „%ld” wymaga argumentu typu „long”, ale argument 2 ze zmienną liczbą argumentów ma typ „long [num_of_passes]”
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(234,23): warning C4313: „fprintf”: „%d” w ciągu formatu powoduje konflikt z argumentem 2 typu „long [num_of_passes]”
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(202,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(204,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(226,18): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(256,38): warning C4244: "return": konwersja z "_Rep" do "long", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]

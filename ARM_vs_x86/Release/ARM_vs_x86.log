@@ -1,0 +1,11 @@
+﻿  ARM_vs_x86.cpp
+C:\Users\anton\Documents\GitHub\ARM_vs_x86\ARM_vs_x86\ARM_vs_x86.cpp(77,38): warning C4244: "return": konwersja z "_Rep" do "long", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  ARM_vs_x86.vcxproj -> C:\Users\anton\Documents\GitHub\ARM_vs_x86\Release\ARM_vs_x86.exe
